@@ -1,4 +1,4 @@
-# Canopy 🌿
+# Canopy 
 
 **Gamified, verified environmental action for Indian schools and colleges.**
 
@@ -63,6 +63,4 @@ vercel --prod # production deploy
 Or connect the GitHub repo directly in the Vercel dashboard — `vercel.json` already
 points it at `npm run build` and the `dist/` output.
 
-## Team
 
-VIT Bhopal University · Internal Hackathon 2026 · SIH25009
